@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 45fa54575e16945e79719151b8857b18
+timeCreated: 1506507702
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone_Lower_Left
+    100004: Bone_Lower_Left_end
+    100006: Bone_Lower_Left_end_end
+    100008: Bone_Lower_Mid
+    100010: Bone_Lower_Mid_end
+    100012: Bone_Lower_Mid_end_end
+    100014: Bone_Lower_Right
+    100016: Bone_Lower_Right_end
+    100018: Bone_Lower_Right_end_end
+    100020: Bone_Upper_Left
+    100022: Bone_Upper_Left_end
+    100024: Bone_Upper_Left_end_end
+    100026: Bone_Upper_Mid
+    100028: Bone_Upper_Mid.001
+    100030: Bone_Upper_Mid.002
+    100032: Bone_Upper_Mid.003
+    100034: Bone_Upper_Mid.004
+    100036: Bone_Upper_Mid.005
+    100038: Bone_Upper_Mid.005_end
+    100040: Bone_Upper_Mid_end
+    100042: Bone_Upper_Mid_end_end
+    100044: Bone_Upper_Right
+    100046: Bone_Upper_Right_end
+    100048: Bone_Upper_Right_end_end
+    100050: frontTeeth
+    100052: lowTeethL
+    100054: lowTeethR
+    100056: Mouth
+    100058: //RootNode
+    100060: Togue
+    100062: upTeethL
+    100064: upTeethR
+    400000: Armature
+    400002: Bone_Lower_Left
+    400004: Bone_Lower_Left_end
+    400006: Bone_Lower_Left_end_end
+    400008: Bone_Lower_Mid
+    400010: Bone_Lower_Mid_end
+    400012: Bone_Lower_Mid_end_end
+    400014: Bone_Lower_Right
+    400016: Bone_Lower_Right_end
+    400018: Bone_Lower_Right_end_end
+    400020: Bone_Upper_Left
+    400022: Bone_Upper_Left_end
+    400024: Bone_Upper_Left_end_end
+    400026: Bone_Upper_Mid
+    400028: Bone_Upper_Mid.001
+    400030: Bone_Upper_Mid.002
+    400032: Bone_Upper_Mid.003
+    400034: Bone_Upper_Mid.004
+    400036: Bone_Upper_Mid.005
+    400038: Bone_Upper_Mid.005_end
+    400040: Bone_Upper_Mid_end
+    400042: Bone_Upper_Mid_end_end
+    400044: Bone_Upper_Right
+    400046: Bone_Upper_Right_end
+    400048: Bone_Upper_Right_end_end
+    400050: frontTeeth
+    400052: lowTeethL
+    400054: lowTeethR
+    400056: Mouth
+    400058: //RootNode
+    400060: Togue
+    400062: upTeethL
+    400064: upTeethR
+    4300000: frontTeeth
+    4300002: upTeethL
+    4300004: upTeethR
+    4300006: lowTeethL
+    4300008: lowTeethR
+    4300010: Mouth
+    4300012: Togue
+    7400000: Armature|Chew
+    7400002: Armature|Closing
+    7400004: Armature|Idle
+    7400006: Armature|Idle2
+    7400008: Armature|Open
+    7400010: Armature|Opening
+    9500000: //RootNode
+    13700000: frontTeeth
+    13700002: lowTeethL
+    13700004: lowTeethR
+    13700006: Mouth
+    13700008: Togue
+    13700010: upTeethL
+    13700012: upTeethR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: c7f14c2c4373d4ef8b31623ef13fde37
+timeCreated: 1446844487
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.002_end
+    100010: Bone_Lower_Left
+    100012: Bone_Lower_Left_end
+    100014: Bone_Lower_Mid
+    100016: Bone_Lower_Mid_end
+    100018: Bone_Lower_Right
+    100020: Bone_Lower_Right_end
+    100022: Bone_Upper_Left
+    100024: Bone_Upper_Left_end
+    100026: Bone_Upper_Mid
+    100028: Bone_Upper_Mid_end
+    100030: Bone_Upper_Right
+    100032: Bone_Upper_Right_end
+    100034: Camera
+    100036: Lamp
+    100038: Mouth
+    100040: //RootNode
+    100042: Tooth.000
+    100044: Tooth.001
+    100046: Tooth.002
+    100048: Uvula
+    100050: Uvula Armature
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.002_end
+    400010: Bone_Lower_Left
+    400012: Bone_Lower_Left_end
+    400014: Bone_Lower_Mid
+    400016: Bone_Lower_Mid_end
+    400018: Bone_Lower_Right
+    400020: Bone_Lower_Right_end
+    400022: Bone_Upper_Left
+    400024: Bone_Upper_Left_end
+    400026: Bone_Upper_Mid
+    400028: Bone_Upper_Mid_end
+    400030: Bone_Upper_Right
+    400032: Bone_Upper_Right_end
+    400034: Camera
+    400036: Lamp
+    400038: Mouth
+    400040: //RootNode
+    400042: Tooth.000
+    400044: Tooth.001
+    400046: Tooth.002
+    400048: Uvula
+    400050: Uvula Armature
+    2300000: Tooth.000
+    2300002: Tooth.001
+    2300004: Tooth.002
+    3300000: Tooth.000
+    3300002: Tooth.001
+    3300004: Tooth.002
+    4300000: Uvula
+    4300002: Mouth
+    4300004: Tooth.002
+    4300006: Tooth.000
+    4300008: Tooth.001
+    9500000: //RootNode
+    13700000: Mouth
+    13700002: Uvula
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
